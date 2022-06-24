@@ -608,7 +608,7 @@ body {
     margin-bottom: -2rem;
     margin-right: 2rem;
     height: auto;
-    flex: 1 1 0%;
+    width: 300px;
   }
 }
 
@@ -628,7 +628,7 @@ body {
   font-size: 0.75rem;
   line-height: 1rem;
   text-transform: uppercase;
-  line-height: 14px;
+  line-height: 15px;
   letter-spacing: 5px;
 }
 

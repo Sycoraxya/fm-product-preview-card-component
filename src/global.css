@@ -13,7 +13,7 @@ body {
 }
 
 .imageWrapper {
-    @apply -m-6 mb-6 h-60 sm:-m-8 sm:-mb-8 sm:mr-8 sm:h-auto sm:flex-1;
+    @apply -m-6 mb-6 h-60 sm:-m-8 sm:-mb-8 sm:mr-8 sm:h-auto sm:w-[300px];
 }
 
 .image {
@@ -25,7 +25,7 @@ body {
 }
 
 .subtitle {
-    @apply mb-3 text-xs uppercase leading-[14px] tracking-[5px] sm:mb-5;
+    @apply mb-3 text-xs uppercase leading-[15px] tracking-[5px] sm:mb-5;
 }
 
 .productName {
